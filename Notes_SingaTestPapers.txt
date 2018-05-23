@@ -1,0 +1,54 @@
+https://www.testpapersfree.com/pdfs/
+
+1) Maths P4
+
+startIdx = 1 to 28
+https://www.testpapersfree.com/maths/index.php?level=P4&year=%&subject=Maths&type=%&school=%&Submit=Show%20Test%20Papers&page=startIdx
+
+	Get the lines having https://www.testpapersfree.com/show.php?testpaperid=85131
+	In that, you get the PDF Link
+
+2) Science P4
+startIdx = 1 to 27
+https://www.testpapersfree.com/science/index.php?level=P4&year=%&subject=Science&type=%&school=%&Submit=Show%20Test%20Papers&page=startIdx
+
+	https://www.testpapersfree.com/show.php?testpaperid=85117
+
+3) English P4
+startIdx = 1 to 26
+https://www.testpapersfree.com/english/index.php?level=P4&year=%&subject=English&type=%&school=%&Submit=Show%20Test%20Papers&page=1
+
+	https://www.testpapersfree.com/show.php?testpaperid=85173
+
+4) Maths P3
+startIdx = 1 to 33
+https://www.testpapersfree.com/p3/index.php?level=P3&year=%&subject=Maths&type=%&school=%&Submit=Show%20Test%20Papers&page=1
+
+5) Science P3
+startIdx = 1 to 33
+https://www.testpapersfree.com/science/index.php?level=P3&year=%&subject=Science&type=%&school=%&Submit=Show%20Test%20Papers&page=2
+
+6) English P3
+startIdx = 1 to 33
+https://www.testpapersfree.com/english/index.php?level=P3&year=%&subject=English&type=%&school=%&Submit=Show%20Test%20Papers&page=2
+
+7) Maths P5
+26
+https://www.testpapersfree.com/maths/index.php?level=P5&year=%&subject=Maths&type=%&school=%&Submit=Show%20Test%20Papers&page=2
+
+8) Science P5
+26
+https://www.testpapersfree.com/science/index.php?level=P5&year=%&subject=Science&type=%&school=%&Submit=Show%20Test%20Papers&page=2
+
+9) English P5
+26
+https://www.testpapersfree.com/english/index.php?level=P5&year=%&subject=English&type=%&school=%&Submit=Show%20Test%20Papers&page=2
+
+10) English P6 - 28
+https://www.testpapersfree.com/english/?level=P6&year=%25&subject=English&type=%25&school=%25&Submit=Show+Test+Papers
+
+11) Maths P6 23
+https://www.testpapersfree.com/maths/?level=P6&year=%25&subject=Maths&type=%25&school=%25&Submit=Show+Test+Papers
+
+12) Science P6 28
+https://www.testpapersfree.com/science/?level=P6&year=%25&subject=Science&type=%25&school=%25&Submit=Show+Test+Papers
